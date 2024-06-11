@@ -1,0 +1,1 @@
+number_recog_train.py実行後の学習モデルが格納されます

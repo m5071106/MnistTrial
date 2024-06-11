@@ -1,0 +1,42 @@
+MnistTrial
+├── ImgSelector
+│   ├── ImgSelector.java
+│   └── parameter.txt
+├── db_sample
+│   ├── backup
+│   ├── db_sample.py
+│   └── source.txt
+├── img_clipper
+│   ├── backup
+│   ├── extensions.txt
+│   ├── img_clipper.py
+│   ├── parameter.txt
+│   ├── result
+│   ├── result.txt
+│   └── source.txt
+├── number_recog
+│   ├── Net.py
+│   ├── backup
+│   ├── data
+│   ├── extensions.txt
+│   ├── models
+│   ├── number_recog.py
+│   ├── number_recog_train.py
+│   ├── result
+│   ├── result.txt
+│   ├── sample
+│   │   └── sample.png
+│   ├── source.txt
+│   └── temporary
+└── pdf_to_img
+    ├── backup
+    ├── extensions.txt
+    ├── pdf_to_img.py
+    ├── result
+    ├── result.txt
+    ├── sample
+    │   └── daily_report_sample.pdf
+    ├── source
+    └── source.txt
+
+21 directories, 55 files
