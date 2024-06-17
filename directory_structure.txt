@@ -25,18 +25,55 @@ MnistTrial
 │   ├── result
 │   ├── result.txt
 │   ├── sample
-│   │   └── sample.png
 │   ├── source.txt
 │   └── temporary
-└── pdf_to_img
-    ├── backup
-    ├── extensions.txt
-    ├── pdf_to_img.py
-    ├── result
-    ├── result.txt
-    ├── sample
-    │   └── daily_report_sample.pdf
-    ├── source
-    └── source.txt
-
-21 directories, 55 files
+├── pdf_to_img
+│   ├── backup
+│   ├── extensions.txt
+│   ├── pdf_to_img.py
+│   ├── result
+│   ├── result.txt
+│   ├── sample
+│   ├── source
+│   └── source.txt
+├── recog_by_selfdata
+│   ├── Net.py
+│   ├── backup
+│   ├── check_selfdata.py
+│   ├── data
+│   │   ├── test_data
+│   │   │   ├── 0
+│   │   │   ├── 1
+│   │   │   ├── 2
+│   │   │   ├── 3
+│   │   │   ├── 4
+│   │   │   ├── 5
+│   │   │   ├── 6
+│   │   │   ├── 7
+│   │   │   ├── 8
+│   │   │   └── 9
+│   │   └── train_data
+│   │       ├── 0
+│   │       ├── 1
+│   │       ├── 2
+│   │       ├── 3
+│   │       ├── 4
+│   │       ├── 5
+│   │       ├── 6
+│   │       ├── 7
+│   │       ├── 8
+│   │       └── 9
+│   ├── extensions.txt
+│   ├── img_dir.txt
+│   ├── lbl_dir.txt
+│   ├── make_selfdata.py
+│   ├── models
+│   ├── number_recog.py
+│   ├── result
+│   ├── result.txt
+│   ├── sample
+│   ├── source.txt
+│   ├── target.txt
+│   ├── temporary
+│   └── train_by_selfdata.py
+└── README.md
